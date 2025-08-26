@@ -1,2 +1,7 @@
-# smart-mini-shop
-Mini smart shop on WhatsApp &amp; Instagram with AI assistant
+
+پروژه مینی فروشگاه هوشمند روی واتساپ
+
+### بخش‌ها
+- backend → مدیریت API، پردازش هوش مصنوعی، پرداخت امن
+- android → اپ اندروید سمت فروشنده (CRM)
+- docs → مستندات و طراحی‌ها
